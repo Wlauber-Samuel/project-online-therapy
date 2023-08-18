@@ -8,6 +8,19 @@
     margin-bottom: 20px;
 }
 
+#button-infos {
+    height: 40px;
+    justify-content: flex-start;
+    text-align: center;
+    align-items: center;
+    border-radius: 10px;
+}
+
+#button-infos:hover {
+    background-color: #d4d4d4;
+    color: #000;
+}
+
 @media screen and (max-width: 600px) {
     #image-infos {
         width: 100%;

@@ -51,7 +51,7 @@ export default function Infos() {
 
                 <button
                     type="button"
-                    className=""
+                    id='button-infos'
                     onClick={() => {
                         window.location.href = '/agendamento'
                     }}
